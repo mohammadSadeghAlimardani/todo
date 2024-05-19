@@ -62,6 +62,7 @@ body{
 }
 
 section{
+    max-width: 567px;
     width: 90%;
     margin: 0 auto;
 }
